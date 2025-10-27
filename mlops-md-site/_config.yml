@@ -1,0 +1,7 @@
+title: Agent MLOps-007
+description: "MLOps Never Stops. Join the Secret Mission."
+baseurl: "" # the subpath, e.g. /repo-name
+url: "https://mlops.md"  # your production URL (or GitHub Pages URL)
+theme: minima
+plugins:
+  - jekyll-feed
