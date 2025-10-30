@@ -22,4 +22,4 @@ Quick edits:
 - Edit content of .md files to add your text.
 - Add new posts in _posts/ (YYYY-MM-DD-title.md).
 
-If you'd like, I can generate additional themes, images, or a Cloudflare DNS guide.
+If you'd like, I can generate additional themes, images, or a Cloudflare DNS guide..
